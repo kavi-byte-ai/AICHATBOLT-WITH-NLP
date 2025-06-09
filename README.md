@@ -20,3 +20,5 @@ I recently completed an internship program with CODTECH IT Solutions, where I ha
 My internship experience at CODTECH IT Solutions was enriching and challenging. The API integration and data visualization task was an excellent introduction to the world of data science and software development.This experience has not only improved my technical skills but also taught me the importance of teamwork, communication, and problem-solving in a professional setting.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4f0907c6-78f0-44ed-bac4-5e9e9a4e2746)
